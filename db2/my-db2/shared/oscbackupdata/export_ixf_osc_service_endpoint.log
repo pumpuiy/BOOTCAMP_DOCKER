@@ -1,0 +1,35 @@
+SQL3104N  The Export utility is beginning to export data to file 
+"OSC.OSC_SERVICE_ENDPOINT.ixf".
+
+SQL3105N  The Export utility has finished exporting "70" rows.
+
+SQL3104N  The Export utility is beginning to export data to file 
+"OSC.OSC_SERVICE_ENDPOINT.ixf".
+
+SQL27984W  The export command completed successfully. However, some 
+information that would be required to recreate one or more tables has not been 
+saved to the output file. The file will not be able to be used by the IMPORT 
+command to create or replace tables. Reason code: "7".
+
+SQL3105N  The Export utility has finished exporting "69" rows.
+
+SQL3104N  The Export utility is beginning to export data to file 
+"OSC.OSC_SERVICE_ENDPOINT.ixf".
+
+SQL27984W  The export command completed successfully. However, some 
+information that would be required to recreate one or more tables has not been 
+saved to the output file. The file will not be able to be used by the IMPORT 
+command to create or replace tables. Reason code: "7".
+
+SQL3105N  The Export utility has finished exporting "0" rows.
+
+SQL3104N  The Export utility is beginning to export data to file 
+"OSC.OSC_SERVICE_ENDPOINT.ixf".
+
+SQL27984W  The export command completed successfully. However, some 
+information that would be required to recreate one or more tables has not been 
+saved to the output file. The file will not be able to be used by the IMPORT 
+command to create or replace tables. Reason code: "7".
+
+SQL3105N  The Export utility has finished exporting "69" rows.
+

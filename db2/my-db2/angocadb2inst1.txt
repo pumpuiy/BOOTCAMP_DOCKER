@@ -1,0 +1,24 @@
+Command
+-------------
+Reference website -> https://hub.docker.com/r/angoca/db2inst1
+
+0. $docker pull angoca/db2inst1
+#1.sudo docker run -i -t --privileged=true --nadbme="db2inst1" -p 50000:50000 angoca/db2inst1
+1. $docker run -t -i --privileged=true --name="db2inst1" -p 50000:50000 -v D:/BOOTCAMP/DOCKER_PROJECT/db2/my-db2/shared:/home/db2inst1/shared angoca/db2inst1 /bin/bash
+2. $exit
+3. $docker exec -u 0 -it db2inst1 bash
+4. $export LANG=en_GB
+5. $su - db2inst1
+7. $db2start
+8. $db2set DB2CODEPAGE=874
+9. $db2 create db mydb using codeset TIS620-1 TERRITORY TH
+#4. $db2 CREATE DATABASE MYDB USING CODEPAGE 874 CODESET TIS620-1 TERRITORY TH
+10. $db2 connect to mydb
+11. $db2 CREATE SCHEMA OSC AUTHORIZATION OSC
+
+##go to user root
+docker exec -u 0 -it db2inst1 bash
+
+
+$docker exec -ti db2inst1 /bin/bash
+$docker exec -ti db2inst1 -v D:/BOOTCAMP/DOCKER_PROJECT/db2/my-db2/shared:/home/db2inst1/shared /bin/bash

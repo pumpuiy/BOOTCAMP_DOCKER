@@ -1,0 +1,13 @@
+
+db2:
+  image: ibmcom/db2
+  privileged: true
+  ports:
+    - 50000:50000
+  environment:
+    DB2INST1_PASSWORD: P@ssw0rd
+    LICENSE: accept
+    DBNAME: testdb
+  command: db2start
+  volumes:
+    - ./database:/database

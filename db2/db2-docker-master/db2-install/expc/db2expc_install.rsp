@@ -1,0 +1,5 @@
+PROD                      = EXPRESS_C
+FILE                      = /opt/ibm/db2/V11.1
+LIC_AGREEMENT             = ACCEPT
+INSTALL_TYPE              = CUSTOM
+COMP                      = DB2_SAMPLE_DATABASE

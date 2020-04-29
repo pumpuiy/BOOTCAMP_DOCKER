@@ -1,0 +1,2598 @@
+SQL3150N  The H record in the PC/IXF file has product "DB2    02.00", date 
+"20200410", and time "025418".
+
+SQL3153N  The T record in the PC/IXF file has name 
+"OSC.OSC_SERVICE_ENDPOINT.ixf", qualifier "", and source "            ".
+
+SQL3109N  The utility is beginning to load data from file 
+"OSC.OSC_SERVICE_ENDPOINT.ixf".
+
+SQL3110N  The utility has completed processing.  "70" rows were read from the 
+input file.
+
+SQL3221W  ...Begin COMMIT WORK. Input Record Count = "70".
+
+SQL3222W  ...COMMIT of any database changes was successful.
+
+SQL3149N  "70" rows were processed from the input file.  "70" rows were 
+successfully inserted into the table.  "0" rows were rejected.
+
+SQL3150N  The H record in the PC/IXF file has product "DB2    02.00", date 
+"20200416", and time "034637".
+
+SQL3153N  The T record in the PC/IXF file has name 
+"OSC.OSC_SERVICE_ENDPOINT.ixf", qualifier "", and source "            ".
+
+SQL3109N  The utility is beginning to load data from file 
+"OSC.OSC_SERVICE_ENDPOINT.ixf".
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "1" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "2" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "3" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "4" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "5" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "6" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "7" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "8" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "9" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "10" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "11" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "12" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "13" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "14" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "15" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "16" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "17" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "18" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "19" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "20" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "21" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "22" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "23" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "24" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "25" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "26" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "27" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "28" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "29" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "30" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "31" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "32" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "33" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "34" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "35" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "36" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "37" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "38" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "39" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "40" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "41" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "42" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "43" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "44" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "45" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "46" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "47" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "48" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "49" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "50" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "51" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "52" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "53" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "54" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "55" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "56" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "57" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "58" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "59" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "60" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "61" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "62" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "63" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "64" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "65" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "66" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "67" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "68" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "69" of 
+the input file.
+
+SQL3110N  The utility has completed processing.  "69" rows were read from the 
+input file.
+
+SQL3221W  ...Begin COMMIT WORK. Input Record Count = "69".
+
+SQL3222W  ...COMMIT of any database changes was successful.
+
+SQL3149N  "69" rows were processed from the input file.  "0" rows were 
+successfully inserted into the table.  "69" rows were rejected.
+
+SQL3150N  The H record in the PC/IXF file has product "DB2    02.00", date 
+"20200416", and time "034637".
+
+SQL3153N  The T record in the PC/IXF file has name 
+"OSC.OSC_SERVICE_ENDPOINT.ixf", qualifier "", and source "            ".
+
+SQL3109N  The utility is beginning to load data from file 
+"OSC.OSC_SERVICE_ENDPOINT.ixf".
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "1" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "2" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "3" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "4" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "5" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "6" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "7" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "8" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "9" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "10" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "11" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "12" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "13" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "14" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "15" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "16" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "17" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "18" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "19" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "20" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "21" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "22" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "23" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "24" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "25" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "26" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "27" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "28" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "29" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "30" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "31" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "32" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "33" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "34" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "35" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "36" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "37" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "38" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "39" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "40" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "41" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "42" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "43" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "44" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "45" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "46" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "47" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "48" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "49" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "50" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "51" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "52" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "53" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "54" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "55" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "56" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "57" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "58" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "59" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "60" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "61" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "62" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "63" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "64" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "65" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "66" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "67" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "68" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "69" of 
+the input file.
+
+SQL3110N  The utility has completed processing.  "69" rows were read from the 
+input file.
+
+SQL3221W  ...Begin COMMIT WORK. Input Record Count = "69".
+
+SQL3222W  ...COMMIT of any database changes was successful.
+
+SQL3149N  "69" rows were processed from the input file.  "0" rows were 
+successfully inserted into the table.  "69" rows were rejected.
+
+SQL3150N  The H record in the PC/IXF file has product "DB2    02.00", date 
+"20200416", and time "035018".
+
+SQL3153N  The T record in the PC/IXF file has name 
+"OSC.OSC_SERVICE_ENDPOINT.ixf", qualifier "", and source "            ".
+
+SQL3109N  The utility is beginning to load data from file 
+"OSC.OSC_SERVICE_ENDPOINT.ixf".
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "1" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "2" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "3" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "4" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "5" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "6" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "7" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "8" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "9" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "10" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "11" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "12" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "13" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "14" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "15" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "16" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "17" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "18" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "19" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "20" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "21" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "22" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "23" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "24" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "25" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "26" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "27" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "28" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "29" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "30" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "31" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "32" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "33" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "34" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "35" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "36" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "37" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "38" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "39" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "40" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "41" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "42" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "43" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "44" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "45" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "46" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "47" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "48" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "49" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "50" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "51" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "52" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "53" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "54" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "55" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "56" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "57" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "58" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "59" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "60" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "61" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "62" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "63" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "64" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "65" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "66" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "67" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "68" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "69" of 
+the input file.
+
+SQL3110N  The utility has completed processing.  "69" rows were read from the 
+input file.
+
+SQL3221W  ...Begin COMMIT WORK. Input Record Count = "69".
+
+SQL3222W  ...COMMIT of any database changes was successful.
+
+SQL3149N  "69" rows were processed from the input file.  "0" rows were 
+successfully inserted into the table.  "69" rows were rejected.
+
+SQL3150N  The H record in the PC/IXF file has product "DB2    02.00", date 
+"20200416", and time "035018".
+
+SQL3153N  The T record in the PC/IXF file has name 
+"OSC.OSC_SERVICE_ENDPOINT.ixf", qualifier "", and source "            ".
+
+SQL3109N  The utility is beginning to load data from file 
+"OSC.OSC_SERVICE_ENDPOINT.ixf".
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "1" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "2" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "3" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "4" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "5" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "6" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "7" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "8" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "9" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "10" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "11" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "12" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "13" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "14" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "15" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "16" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "17" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "18" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "19" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "20" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "21" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "22" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "23" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "24" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "25" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "26" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "27" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "28" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "29" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "30" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "31" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "32" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "33" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "34" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "35" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "36" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "37" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "38" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "39" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "40" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "41" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "42" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "43" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "44" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "45" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "46" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "47" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "48" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "49" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "50" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "51" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "52" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "53" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "54" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "55" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "56" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "57" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "58" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "59" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "60" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "61" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "62" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "63" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "64" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "65" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "66" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "67" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "68" of 
+the input file.
+
+SQL3148W  A row from the input file was not inserted into the table.  SQLCODE 
+"-407" was returned.
+
+SQL0407N  Assignment of a NULL value to a NOT NULL column "TBSPACEID=2, 
+TABLEID=5, COLNO=0" is not allowed.  SQLSTATE=23502
+
+SQL3185W  The previous error occurred while processing data from row "69" of 
+the input file.
+
+SQL3110N  The utility has completed processing.  "69" rows were read from the 
+input file.
+
+SQL3221W  ...Begin COMMIT WORK. Input Record Count = "69".
+
+SQL3222W  ...COMMIT of any database changes was successful.
+
+SQL3149N  "69" rows were processed from the input file.  "0" rows were 
+successfully inserted into the table.  "69" rows were rejected.
+
+SQL3150N  The H record in the PC/IXF file has product "DB2    02.00", date 
+"20200416", and time "035018".
+
+SQL3153N  The T record in the PC/IXF file has name 
+"OSC.OSC_SERVICE_ENDPOINT.ixf", qualifier "", and source "            ".
+
+SQL3109N  The utility is beginning to load data from file 
+"OSC.OSC_SERVICE_ENDPOINT.ixf".
+
+SQL3110N  The utility has completed processing.  "69" rows were read from the 
+input file.
+
+SQL3221W  ...Begin COMMIT WORK. Input Record Count = "69".
+
+SQL3222W  ...COMMIT of any database changes was successful.
+
+SQL3149N  "69" rows were processed from the input file.  "69" rows were 
+successfully inserted into the table.  "0" rows were rejected.
+

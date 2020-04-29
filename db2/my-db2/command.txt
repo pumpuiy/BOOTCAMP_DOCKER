@@ -1,0 +1,10 @@
+command for docker-db2
+------------------------------
+
+#1.  docker run -itd --name mydb2 --privileged=true -p 50000:50000 -e LICENSE=accept -e DB2INST1_PASSWORD=P@ssw0rd -e DBNAME=testdb -v d:/dockerdb2:/database ibmcom/db2
+
+1.  docker run -itd --name mydb2 --privileged=true -p 50000:50000 -e LICENSE=accept -e DB2INST1_PASSWORD=P@ssw0rd -e DBNAME=testdb -v /database:/database ibmcom/db2
+
+2. docker exec -ti mydb2 bash -c "su - db2inst1"
+
+#docker run -v d:/dockersharedata:/data alpine ls /data

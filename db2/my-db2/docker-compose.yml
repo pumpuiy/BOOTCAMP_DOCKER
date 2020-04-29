@@ -1,0 +1,11 @@
+
+db2:
+  image: angoca/db2inst1
+  privileged: true
+  ports:
+    - 50000:50000
+  environment:
+    DB2INST1_PASSWORD: P@ssw0rd
+    LICENSE: accept
+    DBNAME: mydb
+  command: db2start
